@@ -1,8 +1,0 @@
-{
-  "name": "ashfak-portfolio",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "echo \"Static portfolio: no build step required\""
-  }
-}
